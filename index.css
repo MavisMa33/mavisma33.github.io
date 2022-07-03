@@ -1,0 +1,35 @@
+
+
+body {
+  font-family: consolas, monaco, monospace;
+  width: 80%;
+  Margin: auto;
+  border-left: 5px dotted darkseagreen;
+  padding: 20px;
+}
+
+/* Heading Section */
+
+h1 {
+
+}
+
+
+/* Table Section */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: darkseagreen;
+}
+
+tbody {
+  background-color: floralwhite;
+}
+
+th, td {
+  padding: 3px;
+}
